@@ -1,0 +1,15 @@
+{
+  "name": "fast-large-file-uploader-local",
+  "version": "1.0.0",
+  "description": "High-performance resumable large-file uploads to local disk (Node.js)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
